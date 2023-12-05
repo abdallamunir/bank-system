@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34112.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "bank-console", "bank-console\bank-console.vcxproj", "{084DDF27-42B1-4F7A-BE86-01C432B0B981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Debug|x64.ActiveCfg = Debug|x64
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Debug|x64.Build.0 = Debug|x64
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Debug|x86.ActiveCfg = Debug|Win32
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Debug|x86.Build.0 = Debug|Win32
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Release|x64.ActiveCfg = Release|x64
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Release|x64.Build.0 = Release|x64
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Release|x86.ActiveCfg = Release|Win32
+		{084DDF27-42B1-4F7A-BE86-01C432B0B981}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31C50ED7-4152-4794-B6BE-62CC80280D7B}
+	EndGlobalSection
+EndGlobal
